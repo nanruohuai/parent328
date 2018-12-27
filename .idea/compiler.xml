@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven-archiver (1)" />
+        <module name="maven-archiver (10)" />
+        <module name="maven-archiver (11)" />
+        <module name="maven-archiver (12)" />
+        <module name="maven-archiver (13)" />
+        <module name="maven-archiver (2)" />
+        <module name="maven-archiver (3)" />
+        <module name="maven-archiver (4)" />
+        <module name="maven-archiver (5)" />
+        <module name="maven-archiver (6)" />
+        <module name="maven-archiver (7)" />
+        <module name="maven-archiver (8)" />
+        <module name="maven-archiver (9)" />
+        <module name="pinyougou-common" />
+        <module name="pinyougou-dao" />
+        <module name="pinyougou-interface" />
+        <module name="pinyougou-pojo" />
+        <module name="pinyougou-service-buyer" />
+        <module name="pinyougou-service-page" />
+        <module name="pinyougou-service-search" />
+        <module name="pinyougou-service-sellergoods" />
+        <module name="pinyougou-service-user" />
+        <module name="pinyougou-web-manager" />
+        <module name="pinyougou-web-portal" />
+        <module name="pinyougou-web-shop" />
+        <module name="pinyougou-web-user" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
