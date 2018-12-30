@@ -15,20 +15,19 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/pinyougou-dao/target/maven-archiver/pom.properties" />
-        <option value="$PROJECT_DIR$/pinyougou-pojo/target/maven-archiver/pom.properties" />
-        <option value="$PROJECT_DIR$/pinyougou-common/target/maven-archiver/pom.properties" />
-        <option value="$PROJECT_DIR$/pinyougou-web-shop/target/maven-archiver/pom.properties" />
-        <option value="$PROJECT_DIR$/pinyougou-web-user/target/maven-archiver/pom.properties" />
-        <option value="$PROJECT_DIR$/pinyougou-interface/target/maven-archiver/pom.properties" />
-        <option value="$PROJECT_DIR$/pinyougou-web-portal/target/maven-archiver/pom.properties" />
-        <option value="$PROJECT_DIR$/pinyougou-web-manager/target/maven-archiver/pom.properties" />
-        <option value="$PROJECT_DIR$/pinyougou-service-page/target/maven-archiver/pom.properties" />
-        <option value="$PROJECT_DIR$/pinyougou-service-user/target/maven-archiver/pom.properties" />
-        <option value="$PROJECT_DIR$/pinyougou-service-buyer/target/maven-archiver/pom.properties" />
-        <option value="$PROJECT_DIR$/pinyougou-service-search/target/maven-archiver/pom.properties" />
-        <option value="$PROJECT_DIR$/pinyougou-service-sellergoods/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pinyougou-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-common/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-web-shop/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-web-user/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-web-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-web-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-service-page/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-service-user/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-service-buyer/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-service-search/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-service-sellergoods/pom.xml" />
       </list>
     </option>
   </component>

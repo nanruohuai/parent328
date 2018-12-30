@@ -1,5 +1,6 @@
 package cn.itcast.core.controller;
 
+import cn.itcast.core.pojo.log.PayLog;
 import cn.itcast.core.service.PayService;
 import com.alibaba.dubbo.config.annotation.Reference;
 import entity.Result;
@@ -41,6 +42,11 @@ public class PayController {
                     x++;
                     if(x > 100){
                         //调用微信服务器端 (同学完成了)
+                        //订单id outTradeNo 能不能直接new
+                        /**
+                         * 查询
+                         */
+                         payService.closeOrder(out_trade_no);
                         return new Result(false,"二维码超时");
                     }
                 }
